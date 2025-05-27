@@ -11,7 +11,6 @@
 
 body {
     background-image: url('https://i.redd.it/f76t4h0psckc1.jpeg');
-    background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
